@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DZwy4WDyW7/X93ga3dAGVf1fjw03xnGJPCk3ALy+5xLQEbtptXTIRqO/GH6+bGKesLknTrY+old30rjkzmF5ww==",
+  "success": true,
+  "projectFilePath": "F:\\Practice\\ASP.Net\\Education_Api_L1\\Education_Api_L1\\Education_Api_L1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Persian\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Persian\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Persian\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Persian\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Persian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Persian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
