@@ -11,8 +11,8 @@ namespace Education_Api_L1.Data.SqlSchoolReop
         bool SaveChanges();
         IEnumerable<School> GetAllSchools();
         School GetById(int id);
-        void CreateSchool(School std);
-        void UpdateSchool(School std);
-        void DeleteSchool(School std);
+        void CreateSchool(School sch);
+        void UpdateSchool(School sch);
+        void DeleteSchool(School sch);
     }
 }
