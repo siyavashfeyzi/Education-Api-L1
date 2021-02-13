@@ -12,6 +12,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
+using Education_Api_L1.Data;
+
 
 namespace Education_Api_L1
 {
@@ -28,6 +30,10 @@ namespace Education_Api_L1
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+            services.AddScoped<IStudentRepo, SqlStudent>();
+            services.AddScoped<ISchoolRepo, SqlSchool>();
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

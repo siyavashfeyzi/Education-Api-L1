@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1BhpeA0Cm7MrqFoP5A6R1T0o4Pw4Vgt413Vews2VAdooSO4rmnGzhpYTvcN5EaRkurXpMr3VxHhSLgyic/M+pQ==",
+  "dgSpecHash": "uy4ribu1YyYyVz25+tv8mxTNEOriH42zffIDjreU+PU7QeEq51CO/4JkxWxtSBxt+SuyzKiqBYeItIC4FoVtng==",
   "success": true,
   "projectFilePath": "F:\\Practice\\ASP.Net\\Education_Api_L1\\Education_Api_L1\\Education_Api_L1.csproj",
   "expectedPackageFiles": [
@@ -42,10 +42,10 @@
     "C:\\Users\\Persian\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\Persian\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\Persian\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
-    "C:\\Users\\Persian\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.3\\swashbuckle.aspnetcore.6.0.3.nupkg.sha512",
-    "C:\\Users\\Persian\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.3\\swashbuckle.aspnetcore.swagger.6.0.3.nupkg.sha512",
-    "C:\\Users\\Persian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.3\\swashbuckle.aspnetcore.swaggergen.6.0.3.nupkg.sha512",
-    "C:\\Users\\Persian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.3\\swashbuckle.aspnetcore.swaggerui.6.0.3.nupkg.sha512",
+    "C:\\Users\\Persian\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.4\\swashbuckle.aspnetcore.6.0.4.nupkg.sha512",
+    "C:\\Users\\Persian\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.4\\swashbuckle.aspnetcore.swagger.6.0.4.nupkg.sha512",
+    "C:\\Users\\Persian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.4\\swashbuckle.aspnetcore.swaggergen.6.0.4.nupkg.sha512",
+    "C:\\Users\\Persian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.4\\swashbuckle.aspnetcore.swaggerui.6.0.4.nupkg.sha512",
     "C:\\Users\\Persian\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\Persian\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\Persian\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
