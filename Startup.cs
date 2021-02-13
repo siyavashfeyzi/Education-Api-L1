@@ -30,7 +30,7 @@ namespace Education_Api_L1
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<Education_Api_L1_Context>(opt => opt.UseSqlServer
-                                                                             (Configuration.GetConnectionString("EducationConection")));
+                                                                             (Configuration.GetConnectionString("Education_Api_L1Connection")));
 
 
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
