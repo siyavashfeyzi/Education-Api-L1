@@ -14,6 +14,7 @@ using System.Threading.Tasks;
 using AutoMapper;
 using Education_Api_L1.Data;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json.Serialization;
 
 namespace Education_Api_L1
 {
@@ -32,6 +33,10 @@ namespace Education_Api_L1
             services.AddDbContext<Education_Api_L1_Context>(opt => opt.UseSqlServer
                                                                              (Configuration.GetConnectionString("Education_Api_L1Connection")));
 
+            services.AddControllers().AddNewtonsoftJson(s =>
+            {
+                s.SerializerSettings.ContractResolver = new CamelCasePropertyNamesContractResolver();
+            });
 
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
