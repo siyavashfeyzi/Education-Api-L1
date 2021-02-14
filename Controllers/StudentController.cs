@@ -44,7 +44,7 @@ namespace Education_Api_L1.Controllers
 
         //POST api/[controller]
         [HttpPost]
-        public ActionResult<StudentReadDto> CreateStudent(Student std) 
+        public ActionResult<StudentReadDto> CreateStudent(StudentCreateDto std) 
         {
             Student StudentModel = _mapper.Map<Student>(std);
             _repository.CreateStudent(StudentModel);
