@@ -34,7 +34,7 @@ namespace Education_Api_L1.Controllers
         {
             Student StudentItem = _repository.GetById(id);
 
-            if (StudentItem == null)
+            if (StudentItem != null)
             {
                 return Ok(_mapper.Map<StudentReadDto>(StudentItem));
             }
