@@ -2,7 +2,7 @@
 
 namespace Education_Api_L1.Controllers
 {
-    public class HomeController : Controller
+    public class SchoolController : Controller
     {
        
     }
